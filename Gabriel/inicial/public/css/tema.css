@@ -1,0 +1,121 @@
+html{
+  font-family: 'Oxygen', sans-serif;
+}
+
+#logo{
+  height: 60px;
+}
+
+nav{
+
+}
+
+#nav-mobile{
+  color: white;
+}
+
+body{
+  background-color: black;
+}
+
+#somos{
+  margin-top: 10cm;
+}
+
+#imgsomos{
+  height: 367px;
+  padding-top: 0.5em;
+}
+footer{
+   margin-top: 10cm;
+ }
+
+#contato{
+  margin-top: 5cm;
+}
+
+#cadfanclub{
+  margin-top: 5cm;
+}
+
+#promofancub{
+  margin-top: 1em;
+}
+
+#vantagens{
+  padding-left: 4cm;
+  font-size: 18px;
+  padding-right:4cm;
+}
+
+#contatos{
+  margin-top: 5cm;
+  height: 700px;
+}
+
+#contrato{
+  font-size: 18px;
+}
+
+#integra{
+  margin-top: 10cm;
+}
+
+#intecon{
+  background-image: url("/img/gorillaz-humanz2.png");
+}
+
+.input-field label {
+     color: black;
+     font-size: 18px;
+}
+   /* label focus color */
+.input-field input[type=text]:focus + label {
+     color: black;
+     ;
+}
+   /* label underline focus color */
+.input-field input[type=text]:focus {
+     border-bottom: 1px solid #000;
+     box-shadow: 0 1px 0 0 #000;
+
+}
+   /* valid color */
+.input-field input[type=text].valid {
+     border-bottom: 1px solid #000;
+     box-shadow: 0 1px 0 0 #000;
+}
+   /* invalid color */
+.input-field input[type=text].invalid {
+     border-bottom: 1px solid #000;
+     box-shadow: 0 1px 0 0 #000;
+}
+   /* icon prefix focus color */
+.input-field .prefix.active {
+     color: #000;
+}
+
+label{
+  font-size: 18px;
+}
+
+#intro{
+  margin-top: 5cm;
+}
+#imgintro{
+  margin-top: 0.5em;
+  height: 228px;
+}
+#integra{
+  background-image: url("/img/phase1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 720px;
+  margin-top: 15px;
+}
+#phase1{
+  background-color: grey;
+  margin-top: 11cm;
+  color: white;
+  weight:  720px;
+}
